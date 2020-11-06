@@ -1,0 +1,63 @@
+1. 
+Hozzon létre egy üres ZH1_Megoldások nevű állományt! (Másolja be minden megoldás kiadott parancsait ebbe az állományba!)
+
+2. 
+Készítsen egy gy.txt nevű állományt amelynek tartalma a következő gyümölcsök, ebben a sorrendben, minden gyümölcsöt új sorba írva:
+	szilva
+	barack
+	körte
+	eper
+	szőlő
+	naspolya
+	kivi
+	birs
+	málna
+	meggy
+	görögdinnye
+	ribizli
+	
+3. 
+A gy.txt fájlból szűrje ki azokat a gyümölcsöket, amelyek neve k-val, vagy m-el kezdődik, majd rendezze csökkenő sorrendbe a listát, az eredményt pedig saját könyvtárába egy rendezett.txt fájlban helyezze el.
+
+4.
+Hozza létre egy paranccsal a következő állományt: ~/tervek/epitmeny/todo/allvany/kiadas/kimutatas
+
+5.
+Számolja meg, hogy hány szót tartalmaz a /etc/passwd állomány!
+
+6.
+Készítse el a szemely.txt állományt a következő tartalommal, ha az még nem létezik:
+Zsolti
+József
+Gábor
+Zoltán
+Nóra
+Mária
+Lóri
+
+7.
+Szúrja be a személy.txt végére a következő neveket:
+Géza
+Béla
+Áron
+Lajos
+Gábor
+Mária
+Dénes
+Katalin
+József
+8.
+Az állományban jelenleg ismétlődések vannak. Írjon parancsot, amely az állomány tartalmát úgy módosítja, hogy egy név csak egyszer szerepeljen. Az eredményt irányítsa egy szurt.txt nevű fájlba.
+
+9.
+A szurt.txt állomány jogosultságait állítsa be úgy, hogy a tulajdonos csak olvashassa, a csoport írhassa és olvashassa, az egyébnek ne legyen semmilyen joga!
+
+10.
+Írassa ki az aktuális könyvtár teljes tartalmát részletes kimenetként! A kiíratás eredménye jelenjen meg a standard kimeneten és a minden.txt nevű fájlban is.
+
+11.
+Írjon olyan parancsot, amely a feladat2.dat állományból kiszűri az ismétlődő sorokat, és az így kapott sorok tükörképét lementi a feladat2.ford állományba!
+
+12.
+Írjon olyan parancsot, amely kiírja a szabványos kimenetre a könyvtár azon közönséges állományainak neveit, amelyekre mindenkinek futtatási joga van!
+
